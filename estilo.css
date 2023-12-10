@@ -1,0 +1,66 @@
+
+
+body{
+
+  padding:0;
+  margin:0;
+background: url('./img/trans.png');
+background-size:100%;
+  color: #fff;
+}
+
+.quadro{
+background: #4F4F4F;
+ height: 400px;
+ width: 600px;
+ margin: auto;
+border-radius: 60px 40px 80px 80px;
+box-shadow: 4px 3px 5px 8px #C0C0C0;
+margin-top: 50px;
+}
+/*Area dos logo*/
+
+h4{
+	padding-top: 20px;
+	color:#fff;
+	text-align: center;
+	font-size: 30px;
+}
+span{
+
+	color:#FF8C00;
+	text-align:center;
+}
+
+/*Area do menu*/
+
+.menu{
+ font-size: 25px;
+ }
+
+.menu ul{
+
+padding: 10px;
+list-style:none;
+
+
+}
+
+.menu ul a{
+	text-decoration: none;
+	color:#FFFF00;
+	font-size: 32px;
+   
+}
+ 
+ .menu  li {
+ 	
+ 	text-align: center;
+     margin-left: 10px;
+ 	
+ }
+ .menu ul a :hover{
+    color:#FF8C00;
+    background-color: #363636;
+
+ }
